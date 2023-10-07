@@ -1,3 +1,3 @@
-欢迎使用S-DES 我们基于qt5和time开发了这款S-DES，使其具有很强的实用性 您可以自定义一个10位二进制的密钥对一条8位二进制的明文进行加密，或对密文进行解密 展示如下：
+ Welcome to S-DES. We have developed this S-DES based on qt5 and time, making it very practical. You can customize a 10 bit binary key to encrypt an 8 bit binary plaintext, or decrypt the ciphertext as shown below:
 
-image
+
